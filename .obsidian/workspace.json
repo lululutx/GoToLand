@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7dfcfc85f053dcea",
@@ -162,6 +161,7 @@
   },
   "active": "92e2321bd2ace699",
   "lastOpenFiles": [
+    "ASSETS/Pasted image 20241006000034.png",
     "1-行测/1-2 言语理解/词语积累.md",
     "1-行测/1-1 常识/深圳市情.md",
     "1-行测/1-2 言语理解",
