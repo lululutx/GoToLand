@@ -1,0 +1,48 @@
+h1 {
+font-size: 2em;
+}
+
+h2 {
+font-size: 1.8em;
+}
+
+h3 {
+font-size: 1.5em;
+}
+
+h4, h5, h6 {
+font-size: 1.2em;
+}
+
+.reveal .slides {
+text-align: left;
+line-height: 1.5em;
+}
+
+html.reveal-full-page {
+overflow: scroll;
+}
+
+.reveal-viewport {
+overflow: initial;
+}
+
+.reveal {
+overflow: inherit;
+}
+
+.reveal .progress {
+display: none !important;
+}
+
+.reveal .slides>section>div {
+  align-items: flex-start !important;
+}
+
+body {
+  padding: 48px;
+}
+
+div{
+	border:none !important
+}
