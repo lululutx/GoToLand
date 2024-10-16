@@ -4,6 +4,7 @@ tags:
 地址: https://www.bilibili.com/video/
 theme: none
 height: auto
+width: auto
 disableLayout: "true"
 css: voice-reader.css
 ---

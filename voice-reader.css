@@ -48,3 +48,6 @@ body {
 div {
   border: none !important;
 }
+.reveal-viewport{
+  background: #FAF9DE;
+}
