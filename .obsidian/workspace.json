@@ -4,107 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5cb75000cfbb5599",
+        "id": "ac5ae6426b9c1f04",
         "type": "tabs",
         "children": [
           {
-            "id": "ade8ceb07beb5732",
+            "id": "58d2e6568c3b3b11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-行测/1-1 常识/深圳市情.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92e2321bd2ace699",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-行测/1-1 常识/深圳市情.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de5fb4757fc05551",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-行测/1-1 常识/党的知识学习词典/党的二十大报告.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "955b75a2b73ea5e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-行测/1-1 常识/党的知识学习词典/党的创新理论.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00a64ec44ea17e1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-行测/1-1 常识/党的知识学习词典/党的二十大报告.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a939f1dada3318ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-行测/1-1 常识/党的知识学习词典/党内法规.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0fe1c1aa36d16598",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-行测/1-1 常识/党的知识学习词典/党内集中教育.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a70e1b1f20b014f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-行测/1-1 常识/党的知识学习词典/党的二十大报告.md",
+                "file": "2-申论/日常积累/锤炼对党忠诚的政治品质.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "五位",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-行测/1-1 常识/党的知识学习词典/党的二十大报告.md",
+                "file": "2-申论/日常积累/锤炼对党忠诚的政治品质.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-行测/1-1 常识/党的知识学习词典/党的二十大报告.md",
+                "file": "2-申论/日常积累/锤炼对党忠诚的政治品质.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-行测/1-1 常识/党的知识学习词典/党的二十大报告.md"
+                "file": "2-申论/日常积累/锤炼对党忠诚的政治品质.md"
               }
             }
           }
@@ -229,31 +144,37 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "random-note:开始漫游笔记": false
     }
   },
-  "active": "a70e1b1f20b014f0",
+  "active": "58d2e6568c3b3b11",
   "lastOpenFiles": [
+    "2-申论/日常积累/未命名.md",
+    "2-申论/日常积累/锤炼对党忠诚的政治品质.md",
+    "Templates/T-文章精读.md",
+    "README.md",
+    "().md",
+    "1-行测/1-1 常识/党的知识学习词典/党的二十大报告.md",
+    "2-申论/日常积累",
     "1-行测/1-1 常识/党的知识学习词典/党的创新理论.md",
     "1-行测/1-1 常识/党的知识学习词典/中国共产党章程.md",
-    "1-行测/1-1 常识/党的知识学习词典/党内法规.md",
-    "1-行测/1-1 常识/党的知识学习词典/党内集中教育.md",
     "1-行测/1-1 常识/党的知识学习词典/党史知识.md",
-    "1-行测/1-1 常识/党的知识学习词典/党的二十大报告.md",
-    "未命名",
+    "1-行测/1-1 常识/党的知识学习词典/党内集中教育.md",
+    "1-行测/1-1 常识/党的知识学习词典/党内法规.md",
+    "1-行测/1-2 言语理解/词语积累.md",
+    "Templates",
+    "1-行测/1-1 常识/党的知识学习词典.zip",
     "voice-reader 2.css",
     "voice-reader 1.css",
     "voice-reader.css",
     "1-行测/1-1 常识/党的知识学习词典",
     "1-行测/1-1 常识/深圳市情.md",
     "ASSETS/Pasted image 20241006000034.png",
-    "1-行测/1-2 言语理解/词语积累.md",
     "1-行测/1-2 言语理解",
     "ASSETS/Pasted image 20240924155429.png",
     "ASSETS",
     "新建文件夹",
-    "深圳市情_6_x分の1_来自小红书网页版.jpg",
-    "1-行测/1-1 常识",
-    "2-申论"
+    "深圳市情_6_x分の1_来自小红书网页版.jpg"
   ]
 }
