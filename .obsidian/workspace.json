@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7230483b1e4913e6",
+        "id": "1923a76945b08f35",
         "type": "tabs",
         "children": [
           {
-            "id": "66d7e240958ed25a",
+            "id": "885e1ee0b9471117",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "2-申论/日常积累/未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:中国品牌",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,33 +161,33 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "random-note:开始漫游笔记": false
+      "random-note:开始漫游笔记": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "66d7e240958ed25a",
+  "active": "885e1ee0b9471117",
   "lastOpenFiles": [
-    "2-申论/日常积累/未命名.md",
     "2-申论/日常积累/坚持好、发展好新时代“枫桥经验”.md",
-    "1-行测/1-1 常识/党的知识学习词典/党内法规.md",
+    "2-申论/日常积累/未命名.md",
     "2-申论/日常积累/以科技助力高质量发展.md",
-    "2-申论/日常积累/让农业品牌亮起来强起来.md",
-    "2-申论/日常积累/多措并举推动品牌建设.md",
-    "2-申论/日常积累/纠治“小过重罚”释放执法温度.md",
-    "2-申论/日常积累/讲好中国故事，推动中华文化走出去.md",
-    "2-申论/日常积累/坚持问题导向推进基层治理现代化.md",
-    "2-申论/日常积累/锤炼对党忠诚的政治品质.md",
-    "README.md",
-    "Templates/T-文章精读.md",
     "2-申论/日常积累/让行政执法既有力度又有温度.md",
     "2-申论/日常积累/让乡村特色产业各展其长.md",
+    "2-申论/日常积累/纠治“小过重罚”释放执法温度.md",
+    "2-申论/日常积累/多措并举推动品牌建设.md",
+    "2-申论/日常积累/坚持问题导向推进基层治理现代化.md",
+    "1-行测/1-1 常识/党的知识学习词典/党史知识.md",
+    "1-行测/1-1 常识/党的知识学习词典/党内集中教育.md",
+    "1-行测/1-1 常识/党的知识学习词典/党内法规.md",
+    "1-行测/1-1 常识/党的知识学习词典/中国共产党章程.md",
+    "README.md",
+    "2-申论/日常积累/让农业品牌亮起来强起来.md",
+    "Templates/T-文章精读.md",
     "1-行测/1-1 常识/党的知识学习词典/党的创新理论.md",
+    "2-申论/日常积累/讲好中国故事，推动中华文化走出去.md",
+    "2-申论/日常积累/锤炼对党忠诚的政治品质.md",
     "1-行测/1-2 言语理解/词语积累.md",
     "1-行测/1-1 常识/深圳市情.md",
     "1-行测/1-1 常识/党的知识学习词典/党的二十大报告.md",
-    "1-行测/1-1 常识/党的知识学习词典/党史知识.md",
-    "1-行测/1-1 常识/党的知识学习词典/党内集中教育.md",
-    "1-行测/1-1 常识/党的知识学习词典/中国共产党章程.md",
     "().md",
     "2-申论/日常积累",
     "Templates",
