@@ -11,10 +11,14 @@
             "id": "66d7e240958ed25a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "2-申论/日常积累/未命名123123.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名123123"
             }
           }
         ]
@@ -163,7 +167,7 @@
   },
   "active": "66d7e240958ed25a",
   "lastOpenFiles": [
-    "2-申论/日常积累/未命名.md",
+    "2-申论/日常积累/未命名123123.md",
     "2-申论/日常积累/坚持好、发展好新时代“枫桥经验”.md",
     "1-行测/1-1 常识/党的知识学习词典/党内法规.md",
     "2-申论/日常积累/以科技助力高质量发展.md",
