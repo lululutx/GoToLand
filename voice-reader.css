@@ -51,3 +51,7 @@ div {
 .reveal-viewport{
   background: #FAF9DE;
 }
+
+.code-wrapper{
+  display: none;
+}
