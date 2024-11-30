@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Document</title>
+</head>
+
+<body>
+  <div id="app">
+
+    <input type="file" id="fileInput">
+
+    <h1>{{str}}</h1>
+    <button @click="btn">随机</button>
+    <input type="text" v-model="str1" />
+
+    <br>
+
+    <div style="margin-top: 50px;">
+      <button @click="show">展示</button>
+
+      <div style="border: solid 2px black;width: 1000px; height: 200px;">
+        {{str2}}
+      </div>
+
+    </div>
+
+
+  </div>
+  <script src="./vue.js"></script>
+  <!-- <script src="./tools.js"></script> -->
+  <script lang="javascript" src="./xlsx.min.js"></script>
+  <script>
+    function readWorkbookFromLocalFile(file, callback) {
+      var reader = new FileReader();
+
+      console.log(reader)
+
+      reader.readAsBinaryString(file);
+
+      reader.onload = function (e) {
+        var data = e.target.result;
+        var workbook = XLSX.read(data, { type: 'binary' });
+        if (callback) callback(workbook);
+      };
+
+
+    }
+
+
+  </script>
+  <script>
+    new Vue({
+      el: "#app",
+      data: {
+        str: "点击按钮进行下一个",
+        str1: "",
+        str2: "",
+        list1: [],
+        list2: []
+      },
+
+      mounted() {
+        document.getElementById('fileInput').addEventListener('change', (event) => {
+          let file = event.target.files[0];
+          if (file) {
+            readWorkbookFromLocalFile(file, ((e) => {
+              this.outputWorkbook1(e)
+            }))
+          }
+        });
+
+      },
+      methods: {
+        btn(e) {
+          this.str1 = this.list1[Math.floor(Math.random() * this.list1.length)]
+        },
+        outputWorkbook1(workbook) {
+          let sheet = workbook.Sheets.Sheet1
+          this.list1 = []
+          this.list2 = []
+          for (var key in sheet) {
+            // v是读取单元格的原始值
+            if (key[0] != '!' && key != 'A1' && key != 'B1') {
+              if (key[0] == 'A') {
+                this.list1.push(sheet[key].v)
+              } else if (key[0] == 'B') {
+                this.list2.push(sheet[key].v)
+              }
+            }
+          }
+
+        },
+        show() {
+          let index = this.list1.indexOf(this.str1); // 0
+          this.str2 = this.list2[index]
+        }
+      }
+    });
+  </script>
+</body>
+
+</html>
