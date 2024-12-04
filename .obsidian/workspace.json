@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 323.5
   },
   "right": {
     "id": "7dfcfc85f053dcea",
@@ -140,19 +139,18 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-申论/真题/2024江苏C/问题四.md"
+                "file": "1-行测/1-1 常识/2025国考政治理论时政.md"
               },
               "icon": "lucide-list",
-              "title": "问题四 的大纲"
+              "title": "2025国考政治理论时政 的大纲"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
