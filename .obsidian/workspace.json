@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-行测/1-1 常识/2025国考政治理论时政.md",
+                "file": "2-申论/好句赏析/默写.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025国考政治理论时政"
+              "title": "默写"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-行测/1-1 常识/2025国考政治理论时政.md"
+                "file": "2-申论/好句赏析/默写.md"
               },
               "icon": "lucide-list",
-              "title": "2025国考政治理论时政 的大纲"
+              "title": "默写 的大纲"
             }
           }
         ],
@@ -166,8 +166,8 @@
   },
   "active": "dfafe981e34e512b",
   "lastOpenFiles": [
-    "2-申论/好句赏析/好句子.md",
     "1-行测/1-1 常识/2025国考政治理论时政.md",
+    "2-申论/好句赏析/好句子.md",
     "2-申论/文章积累/六尺巷礼让之光必将照亮未来的路.md",
     "3-工具/bei/~$db.xlsx",
     "3-工具/bei/xlsx.min.js",
