@@ -39,6 +39,12 @@ html.reveal-full-page {
 
 .reveal .slides > section > div {
   align-items: flex-start !important;
+  
+}
+
+.reveal .slides > section > div > div{
+
+  display: none !important;
 }
 
 body {
@@ -46,7 +52,7 @@ body {
 }
 
 div {
-  border: none !important;
+  /* border: none !important; */
 }
 .reveal-viewport{
   background: #FAF9DE;
@@ -54,4 +60,13 @@ div {
 
 .code-wrapper{
   display: none;
+}
+
+mark{
+  color: rgba(255, 255, 255, 0);
+  transition: opacity 0.3s ease;
+}
+
+mark:hover{
+  color: rgb(255, 0, 0);
 }
