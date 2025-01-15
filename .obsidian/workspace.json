@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "结构类似"
             }
+          },
+          {
+            "id": "2194301a26a0f21c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-公专/重要.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "重要"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-行测/1-4 数量关系/行程问题.md"
+                "file": "3-公专/重要.md"
               },
               "icon": "lucide-list",
-              "title": "行程问题 的大纲"
+              "title": "重要 的大纲"
             }
           }
         ],
@@ -150,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,12 +180,14 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "dfafe981e34e512b",
+  "active": "2194301a26a0f21c",
   "lastOpenFiles": [
+    "1-行测/1-5 判断/结构类似.md",
+    "3-公专/重要.md",
+    "3-公专",
     "1-行测/1-1 常识/2025国考政治理论时政.md",
     "1-行测/1-2 言语理解/词语积累.md",
     "1-行测/1-4 数量关系/行程问题.md",
-    "1-行测/1-5 判断/结构类似.md",
     "1-行测/1-4 数量关系",
     "1-行测/1-5 判断/图形推理.md",
     "ASSETS/Pasted image 20241213164309.png",
@@ -191,13 +207,12 @@
     "2-申论/真题/2024江苏C - 副本",
     "2-申论/好句赏析/好句子.md",
     "2-申论/文章积累/六尺巷礼让之光必将照亮未来的路.md",
-    "3-工具/bei/~$db.xlsx",
-    "3-工具/bei/xlsx.min.js",
-    "3-工具/bei/vue.js",
-    "3-工具/bei/index.html",
-    "3-工具/bei/db.xlsx",
-    "3-工具/bei",
-    "3-工具/未命名",
+    "4-工具/bei/~$db.xlsx",
+    "4-工具/bei/xlsx.min.js",
+    "4-工具/bei/vue.js",
+    "4-工具/bei/index.html",
+    "4-工具/bei/db.xlsx",
+    "4-工具/bei",
     "2-申论/文章积累/提升行政执法质量 增强群众法治获得感.md",
     "2-申论/文章积累/善用群众工作的三把“金钥匙”.md",
     "2-申论/文章积累/讲好中国故事，推动中华文化走出去.md",
@@ -206,7 +221,6 @@
     "2-申论/文章积累/以智能科技助力高质量发展.md",
     "2-申论/文章积累/以科技助力高质量发展.md",
     "2-申论/真题/2023江苏B/问题三.md",
-    "2-申论/文章积累/让乡村特色产业各展其长.md",
     "ASSETS/Pasted image 20241129174346.png",
     "ASSETS/Pasted image 20241129174239.png",
     "ASSETS/Pasted image 20241129174115.png",
