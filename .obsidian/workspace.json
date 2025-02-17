@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-公专/重要.md",
+                "file": "1-行测/1-1 常识/2025国考政治理论时政.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "重要"
+              "title": "2025国考政治理论时政"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-公专/重要.md",
+                "file": "1-行测/1-1 常识/2025国考政治理论时政.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "重要 的大纲"
+              "title": "2025国考政治理论时政 的大纲"
             }
           }
         ],
@@ -183,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,23 +199,25 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "27cc2bf2291d34f7",
+  "active": "2194301a26a0f21c",
   "lastOpenFiles": [
+    "1-行测/1-1 常识/2025国考政治理论时政.md",
+    "3-公专/重要.md",
+    "1-行测/1-3 数字推理/正推.md",
+    "1-行测/1-3 数字推理/反推.md",
+    "1-行测/1-2 言语理解/词语积累.md",
+    "1-行测/1-5 判断/结构类似.md",
+    "1-行测/1-5 判断/图形推理.md",
     "ASSETS/Pasted image 20250119230644.png",
     "ASSETS/Pasted image 20241129174346.png",
     "README.md",
-    "3-公专/重要.md",
-    "1-行测/1-1 常识/2025国考政治理论时政.md",
     "1-行测/1-1 常识/党的知识学习词典/党的创新理论.md",
     "1-行测/1-1 常识/党的知识学习词典/党的二十大报告.md",
     "1-行测/1-1 常识/党的知识学习词典/党内法规.md",
     "1-行测/1-1 常识/党的知识学习词典/中国共产党章程.md",
-    "1-行测/1-5 判断/结构类似.md",
     "3-公专",
-    "1-行测/1-2 言语理解/词语积累.md",
     "1-行测/1-4 数量关系/行程问题.md",
     "1-行测/1-4 数量关系",
-    "1-行测/1-5 判断/图形推理.md",
     "ASSETS/Pasted image 20241213164309.png",
     "2-申论/真题/2023江苏C/问题一.md",
     "2-申论/真题/2023江苏C/问题二.md",
@@ -239,7 +242,6 @@
     "4-工具/bei",
     "2-申论/文章积累/提升行政执法质量 增强群众法治获得感.md",
     "2-申论/文章积累/善用群众工作的三把“金钥匙”.md",
-    "2-申论/文章积累/讲好中国故事，推动中华文化走出去.md",
     "ASSETS/Pasted image 20241129174239.png",
     "ASSETS/Pasted image 20241129174115.png",
     "ASSETS/Pasted image 20241129174028.png",
