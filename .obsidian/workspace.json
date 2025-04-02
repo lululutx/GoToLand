@@ -6,7 +6,6 @@
       {
         "id": "5db4732375945a9d",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "e147b11f9a7132a8",
@@ -79,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 200
   },
   "right": {
     "id": "7dfcfc85f053dcea",
@@ -155,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,14 +172,19 @@
   },
   "active": "e147b11f9a7132a8",
   "lastOpenFiles": [
+    "ASSETS/Pasted image 20250403000017.png",
+    "5-面试/重要.md",
+    "5-面试/人际关系.md",
+    "ASSETS/Pasted image 20250402225451.png",
+    "1-行测/1-5 判断/图形推理.md",
+    "ASSETS/Pasted image 20250402225320.png",
+    "ASSETS/Pasted image 20250402215355.png",
     "ASSETS/Pasted image 20250402180412.png",
     "1-行测/1-3 数字推理/正推.md",
     "1-行测/1-3 数字推理/反推.md",
     "ASSETS/2022国考行政执法 T3 20241120.pdf",
-    "5-面试/人际关系.md",
     "1-行测/1-1 常识/2025国考政治理论时政.md",
     "Templates/T-答题框架.md",
-    "5-面试/重要.md",
     "3-公专/重要.md",
     "5-面试",
     "1-行测/1-1 常识/深圳市情.md",
@@ -188,7 +193,6 @@
     "2-申论/真题/2022国考地市/问题三.md",
     "2-申论/文章积累/多措并举推动品牌建设.md",
     "1-行测/1-1 常识/党的知识学习词典/党的创新理论.md",
-    "1-行测/1-5 判断/图形推理.md",
     "ASSETS/Pasted image 20250119230644.png",
     "ASSETS/Pasted image 20241129174346.png",
     "README.md",
@@ -213,10 +217,6 @@
     "4-工具/bei/xlsx.min.js",
     "4-工具/bei/vue.js",
     "4-工具/bei/index.html",
-    "ASSETS/Pasted image 20241129174239.png",
-    "ASSETS/Pasted image 20241129174115.png",
-    "ASSETS/Pasted image 20241129174028.png",
-    "ASSETS/Pasted image 20241128215822.png",
-    "ASSETS/Pasted image 20241128215810.png"
+    "ASSETS/Pasted image 20241129174239.png"
   ]
 }
