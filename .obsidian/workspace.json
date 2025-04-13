@@ -4,49 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "db42a41ad51974a9",
-        "type": "split",
+        "id": "a2b330fab267b01d",
+        "type": "tabs",
         "children": [
           {
-            "id": "a2b330fab267b01d",
-            "type": "tabs",
-            "dimension": 70.65750736015701,
-            "children": [
-              {
-                "id": "b0dd2c06c3fb16f4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "5-面试/2-25年4月12日.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2-25年4月12日"
-                }
-              }
-            ]
-          },
-          {
-            "id": "fd521fb4b7d32e05",
-            "type": "tabs",
-            "dimension": 29.34249263984298,
-            "children": [
-              {
-                "id": "b8c72d4fe0bfccd7",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {},
-                  "icon": "dot-network",
-                  "title": "Mind Map of 2-25年4月12日"
-                }
-              }
-            ]
+            "id": "b0dd2c06c3fb16f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5-面试/2-25年4月13日.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2-25年4月13日"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,24 +172,25 @@
   },
   "active": "b0dd2c06c3fb16f4",
   "lastOpenFiles": [
+    "ASSETS/Pasted image 20250413130057.png",
+    "ASSETS/Pasted image 20250413130043.png",
+    "ASSETS/Pasted image 20250413130026.png",
+    "ASSETS/Pasted image 20250413130011.png",
+    "5-面试/2-25年4月12日.md",
+    "5-面试/2-25年4月13日.md",
     "ASSETS/Pasted image 20250412231536.png",
     "ASSETS/Pasted image 20250412231519.png",
     "ASSETS/Pasted image 20250412231456.png",
     "5-面试/2-25年4月11日.md",
-    "5-面试/2-25年4月12日.md",
     "ASSETS/Pasted image 20250412183718.png",
     "ASSETS/Pasted image 20250412183655.png",
     "ASSETS/Pasted image 20250412183639.png",
     "ASSETS/Pasted image 20250412183603.png",
-    "ASSETS/Pasted image 20250412183548.png",
-    "ASSETS/Pasted image 20250412183528.png",
     "5-面试/1-组织管理.md",
-    "ASSETS/Pasted image 20250412170932.png",
     "5-面试/1-综合分析.md",
     "5-面试/1-态度观点.md",
     "5-面试/1-应急处突.md",
     "5-面试/未命名.md",
-    "ASSETS/Pasted image 20250411223006.png",
     "5-面试/1-情景模拟.md",
     "5-面试/1-人际关系.md",
     "5-面试/3-其他的题.md",
@@ -233,7 +209,6 @@
     "1-行测/1-4 数量关系/行程问题.md",
     "1-行测/1-5 判断/结构类似.md",
     "2-申论/好句赏析/习语.md",
-    "2-申论/好句赏析/好句子.md",
     "ASSETS/2022国考行政执法 T3 20241120.pdf",
     "5-面试",
     "3-公专",
