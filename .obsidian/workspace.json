@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a9823bb674085c1d",
+        "id": "0c43985f3603ced2",
         "type": "split",
         "children": [
           {
             "id": "a2b330fab267b01d",
             "type": "tabs",
-            "dimension": 20.784313725490197,
             "children": [
               {
                 "id": "b0dd2c06c3fb16f4",
@@ -29,12 +28,11 @@
             ]
           },
           {
-            "id": "84f0b95f4dfaeb9b",
+            "id": "1307b9c69736d78d",
             "type": "tabs",
-            "dimension": 79.2156862745098,
             "children": [
               {
-                "id": "d4812b914df778e4",
+                "id": "dc2c471a3dc555a5",
                 "type": "leaf",
                 "state": {
                   "type": "mindmap",
@@ -78,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "柔性执法",
+                "query": "平静",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,13 +195,16 @@
   },
   "active": "b0dd2c06c3fb16f4",
   "lastOpenFiles": [
+    "ASSETS/Pasted image 20250415225148.png",
+    "ASSETS/Pasted image 20250415225138.png",
+    "ASSETS/Pasted image 20250415225128.png",
+    "5-面试/2-25年4月14日.md",
+    "5-面试/2-25年4月15日.md",
+    "5-面试/2-25年4月12日.md",
     "ASSETS/Pasted image 20250415193335.png",
     "ASSETS/Pasted image 20250415193322.png",
     "ASSETS/Pasted image 20250415193308.png",
     "ASSETS/Pasted image 20250415193249.png",
-    "5-面试/2-25年4月14日.md",
-    "5-面试/2-25年4月15日.md",
-    "5-面试/2-25年4月12日.md",
     "5-面试/2-25年4月13日.md",
     "2-申论/真题/2023江苏B/问题四.md",
     "2-申论/真题/2022江苏B/问题二.md",
@@ -211,9 +212,6 @@
     "ASSETS/Pasted image 20250415131739.png",
     "ASSETS/Pasted image 20250415131727.png",
     "ASSETS/Pasted image 20250414232525.png",
-    "ASSETS/Pasted image 20250414232514.png",
-    "ASSETS/Pasted image 20250414232501.png",
-    "ASSETS/Pasted image 20250414232435.png",
     "5-面试/2-25年4月11日.md",
     "5-面试/1-组织管理.md",
     "5-面试/1-综合分析.md",
