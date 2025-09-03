@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-行测/1-2 言语理解/词语积累.md",
+                "file": "1-行测/1-5 判断/加强削弱.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "词语积累"
+              "title": "加强削弱"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "纲举目张",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-行测/1-2 言语理解/词语积累.md",
+                "file": "1-行测/1-5 判断/加强削弱.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "词语积累 的大纲"
+              "title": "加强削弱 的大纲"
             }
           }
         ],
@@ -155,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 405.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,11 +170,15 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "766e6ca69d9debae",
+  "active": "b0dd2c06c3fb16f4",
   "lastOpenFiles": [
-    "README.md",
+    "ASSETS/Pasted image 20250827151451.png",
+    "1-行测/1-2 言语理解/词语积累.md",
+    "1-行测/1-5 判断/加强削弱.md",
     "1-行测/1-5 判断/逻辑推理.md",
     "1-行测/1-5 判断/结构类似.md",
+    "1-行测/1-4 数量关系/要点.md",
+    "README.md",
     "1-行测/1-5 判断/图形推理.md",
     "5-面试/1-情景模拟.md",
     "5-面试/2-25年4月14日.md",
@@ -195,10 +199,6 @@
     "5-面试/题目类别/某某经济.md",
     "5-面试/题目类别/我党优良传统.md",
     "5-面试/题目类别/依法治国.md",
-    "5-面试/题目类别/英雄.md",
-    "5-面试/题目类别/传统文化.md",
-    "5-面试/题目类别/党史和影响.md",
-    "5-面试/题目类别/调研工作.md",
     "ASSETS/Pasted image 20250506214508.png",
     "5-面试/题目类别",
     "ASSETS/Pasted image 20250422100544.png",
