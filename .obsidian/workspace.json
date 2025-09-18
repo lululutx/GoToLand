@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-申论/真题/2024江苏C/问题四.md",
+                "file": "1-行测/1-5 判断/加强削弱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "问题四 的反向链接列表"
+              "title": "加强削弱 的反向链接列表"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-申论/真题/2022国考行政执法/问题二.md",
+                "file": "1-行测/1-5 判断/加强削弱.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "问题二 的出链列表"
+              "title": "加强削弱 的出链列表"
             }
           },
           {
@@ -129,7 +129,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "标签"
@@ -159,6 +161,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "remotely-save:Remotely Save": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -166,7 +170,6 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "random-note:开始漫游笔记": false
     }
   },
