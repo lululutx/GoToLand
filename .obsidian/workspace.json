@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-行测/1-5 判断/加强削弱.md",
+                "file": "1-行测/1-1 常识/常识小课堂.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "加强削弱"
+              "title": "常识小课堂"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": " 不刊之论",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-行测/1-5 判断/加强削弱.md",
+                "file": "1-行测/1-1 常识/常识小课堂.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "加强削弱 的大纲"
+              "title": "常识小课堂 的大纲"
             }
           }
         ],
@@ -156,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 242.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,12 +174,20 @@
   },
   "active": "b0dd2c06c3fb16f4",
   "lastOpenFiles": [
+    "ASSETS/Pasted image 20251017152557.png",
+    "ASSETS/Pasted image 20251016181910.png",
+    "ASSETS/Pasted image 20251016181843.png",
+    "ASSETS/Pasted image 20251016163938.png",
+    "1-行测/1-1 常识/2025国考政治理论时政.md",
+    "1-行测/1-2 言语理解/词语积累.md",
+    "1-行测/1-1 常识/常识小课堂.md",
+    "1-行测/1-1 常识/地理.md",
+    "1-行测/1-5 判断/加强削弱.md",
     "1-行测/1-5 判断/逻辑推理.md",
+    "ASSETS/Pasted image 20250927174025.png",
     "1-行测/1-5 判断/图形推理.md",
     "1-行测/1-5 判断/结构类似.md",
-    "1-行测/1-5 判断/加强削弱.md",
     "ASSETS/Pasted image 20250827151451.png",
-    "1-行测/1-2 言语理解/词语积累.md",
     "1-行测/1-4 数量关系/要点.md",
     "README.md",
     "5-面试/1-情景模拟.md",
@@ -198,19 +206,12 @@
     "5-面试/2-25年4月15日.md",
     "5-面试/题目类别/扩大内需.md",
     "5-面试/题目类别/人才驿站.md",
-    "5-面试/题目类别/某某经济.md",
-    "5-面试/题目类别/我党优良传统.md",
-    "5-面试/题目类别/依法治国.md",
     "ASSETS/Pasted image 20250506214508.png",
     "5-面试/题目类别",
     "ASSETS/Pasted image 20250422100544.png",
     "ASSETS/Pasted image 20250418001605.png",
     "ASSETS/Pasted image 20250418001544.png",
     "ASSETS/Pasted image 20250418001533.png",
-    "ASSETS/Pasted image 20250417141251.png",
-    "ASSETS/Pasted image 20250417141238.png",
-    "ASSETS/Pasted image 20250417141225.png",
-    "ASSETS/Pasted image 20250415225148.png",
     "新建文件夹",
     "ASSETS/2022国考行政执法 T3 20241120.pdf",
     "5-面试",
